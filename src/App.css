@@ -1,0 +1,13 @@
+/* App.css */
+body {
+  margin: 0;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center; /* กลางแนวนอน */
+  align-items: center;     /* กลางแนวตั้ง */
+
+  background-color: #bd5151;
+  color: rgb(74, 65, 173);
+  font-family: Arial, Helvetica, sans-serif;
+}
